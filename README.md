@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**mennamahmoud9090/mennamahmoud9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+I'm a Computer Science & Statistics student with a passion for data analysis and problem-solving. I'm always learning new technologies and excited to build projects that have an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my data science skills and working on database projects.
+- 🌱 I’m currently learning more about machine learning and data visualization.
+- 👯 I’m looking to collaborate on open-source data-driven projects.
+- 💬 Ask me about programming, statistics, or anything related to data science!
+- 📫 How to reach me: [https://www.linkedin.com/in/menna-mahmoud-95027a2b4/]
+- - 📫 How to reach me: [https://www.facebook.com/share/15t2UXxH23/?mibextid=wwXIfr]
+- ⚡ Fun fact: I love exploring new algorithms and optimizing solutions.
+
