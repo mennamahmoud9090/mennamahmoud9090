@@ -75,36 +75,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mennamahmoud9090&show_icons=true&theme=tokyonight&hide=issues,contribs"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=mennamahmoud9090&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennamahmoud9090&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🎓 Courses & Training
 
 📚 **Microsoft Data Engineer Scholarship – DEPI** (Ongoing)  
