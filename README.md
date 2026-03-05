@@ -24,7 +24,7 @@
 
 💻 **Aspiring Data Engineer** passionate about transforming raw data into meaningful insights.
 
-🔹 Skilled in **SQL, Python, and Data Analysis**  
+🔹 Skilled in **SQL, Python, C++, OOP, Data Structures, and Data Analysis**  
 🔹 Experience building **data dashboards using Power BI**  
 🔹 Interested in **Data Pipelines, Data Engineering, and AI-driven solutions**
 
@@ -41,17 +41,14 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-FF5733?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
@@ -61,7 +58,6 @@
 # 📂 Featured Projects
 
 ### 🛒 Online Electronics Store Data Management
-
 - Designed a **relational database system** for an online electronics store.
 - Built **EER diagrams and normalized database schema**.
 - Optimized SQL queries for **sales and inventory reporting**.
@@ -70,7 +66,6 @@
 ---
 
 ### 📊 Data Analysis & Visualization Dashboard
-
 - Created a **Power BI dashboard** with multiple pages:
   - Overview
   - Shipping
@@ -84,7 +79,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mennamahmoud9090&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mennamahmoud9090&show_icons=true&theme=tokyonight&hide=issues,contribs"/>
 
 </p>
 
@@ -112,17 +107,12 @@
 
 # 🎓 Courses & Training
 
-📚 **Microsoft Data Engineer Scholarship – DEPI** (Ongoing)
-
-📚 **Artificial Intelligence: From Knowledge to Leadership – NTI**
-
-📚 **AI Ambassadors Program – NTI**
-
-📚 **Database Fundamentals – ITI**
-
-📚 **Python Programming Basics – ITI**
-
-📚 **Data Analysis A to Z – Udemy**
+📚 **Microsoft Data Engineer Scholarship – DEPI** (Ongoing)  
+📚 **Artificial Intelligence: From Knowledge to Leadership – NTI**  
+📚 **AI Ambassadors Program – NTI**  
+📚 **Database Fundamentals – ITI**  
+📚 **Python Programming Basics – ITI**  
+📚 **Data Analysis A to Z – Udemy**  
 
 ---
 
