@@ -14,6 +14,9 @@
   <a href="https://github.com/mennamahmoud9090">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat">
   </a>
+  <a href="https://mennamahmoud9090.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-brightgreen?style=flat">
+  </a>
 </p>
 
 ---
